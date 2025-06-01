@@ -1,6 +1,6 @@
 # ComfyUI Workflow Runner (专注版 v2.2)
 
-这是一个基于 Gradio 的 Web UI 工具，用于连接到 ComfyUI 服务器并通过 WebSocket 运行图像生成工作流。用户可以选择本地的 ComfyUI 工作流 JSON 文件，调整特定参数，并实时查看生成的图像。
+这是一个基于 Gradio 的 Web UI 工具，用于连接到 ComfyUI 服务器并通过 WebSocket 运行图像生成工作流。用户可以选择本地的 ComfyUI 工作流 JSON 文件，调整特定参数，查看生成的图像。
 ![项目预览](https://github.com/kungful/websocket_simple_comfyui/blob/b0474bf31c5973a96392dd6d4c376a7ac42c7f62/preview.png?raw=true)
 ## 灵感来源 (Inspiration)
 
